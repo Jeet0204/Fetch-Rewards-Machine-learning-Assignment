@@ -19,4 +19,10 @@ Formulation of the code is as follows:
 5. Removing the punctuation
 6. Performing differnt methods for document similarity like Jaccard Similarity and Cosine Similarity
 
-To run the code: Run FetchrewardsAssignment.ipynb file. No libraries need to be installed.
+How to run the code? (No libraries need to be installed)
+To run FetchrewardsAssignment.ipynb file code:
+1. Download the Jupyter Notebook and open the file in notebook.
+OR
+1. Open the file on the google colab and run the cells.
+
+
