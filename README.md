@@ -18,3 +18,5 @@ Formulation of the code is as follows:
 4. Removing the Stop Words
 5. Removing the punctuation
 6. Performing differnt methods for document similarity like Jaccard Similarity and Cosine Similarity
+
+To run the code: Run FetchrewardsAssignment.ipynb file. No libraries need to be installed.
