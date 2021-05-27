@@ -1,4 +1,4 @@
-## Fetch Rewards Coding Exercise - Text Similarity
+## Fetch Rewards Coding Exercise - Document Similarity
 
 Sample Inputs are as follows:
 <br>
@@ -20,11 +20,10 @@ Formulation of the code is as follows:
 6. Performing differnt methods for document similarity like Jaccard Similarity and Cosine Similarity
 
 How to run the code? (No libraries need to be installed)
-
 <br>
-To run FetchrewardsAssignment.ipynb file code:
-1. Download the Jupyter Notebook and open the file in notebook.
-OR
-1. Open the file on the google colab and run the cells.
+<br>To run FetchrewardsAssignment.ipynb file code:
+<br>1. Download the Jupyter Notebook and open the file in notebook.
+<br>OR
+<br>1. Open the file on the google colab and run the cells.
 
 
